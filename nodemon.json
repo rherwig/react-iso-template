@@ -1,0 +1,8 @@
+{
+  "verbose": false,
+  "watch": [
+    "src/express.js",
+    "src/server"
+  ],
+  "exec": "npm run start:express"
+}
